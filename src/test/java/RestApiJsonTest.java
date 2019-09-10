@@ -14,7 +14,7 @@ import static org.hamcrest.Matchers.*;
  * example of testing rest API using data provider and request/response
  */
 
-public class RestApiJson {
+public class RestApiJsonTest {
 
     private static RequestSpecification request;
     private static ResponseSpecification response;
